@@ -16,8 +16,8 @@ Certifique-se de ter as seguintes ferramentas instaladas em sua máquina:
 * Maven 3.2 ou superior
 * Spring Boot 2.0 ou superior
 * O aplicativo estará disponível em `http://localhost:8080`.
-
-
+  
+  
 
 ### Endpoints disponíveis
 
@@ -49,15 +49,49 @@ DELETE - http://localhost:8080/api/v1/financeira/clientes/:cpf/emprestimos/:id
 
 Para poder testar a aplicação aqui esta uma lista de CPF gerados no site https://www.geradorcpf.com/
 
-- 378.368.068-98
+- 37836806898
 
-- 147.185.332-28
+- 14718533228
 
-- 454.113.155-22
+- 45411315522
 
-- 085.613.428-70
+- 08561342870
 
-- 321.313.456-23
+- 32131345623
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
